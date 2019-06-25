@@ -1,7 +1,7 @@
 title: Local IIIF Annotation Server
 description: "Local IIIF annotation server that allows for easy annotation creation."
 baseurl: "/annotate"
-url: "https://dnoneill.github.io"
+url: "https://blalbrit.github.io"
 
 markdown: kramdown
 permalink: pretty
@@ -29,8 +29,8 @@ webrick:
   headers:
     "Access-Control-Allow-Origin": "*"
 
-api_server: https://limitless-plains-74009.herokuapp.com/annotations/
-
+#api_server: https://limitless-plains-74009.herokuapp.com/annotations/
+api_server: https://blalbrit.github.io/annotations/
 exclude:
   - ENV/
   - imported_roles
