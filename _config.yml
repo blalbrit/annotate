@@ -6,7 +6,7 @@ url: "https://dnoneill.github.io"
 markdown: kramdown
 permalink: pretty
 
-theme: just-the-docs
+theme: jekyll-theme-minimal
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-seo-tag
