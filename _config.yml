@@ -6,8 +6,8 @@ url: "https://blalbrit.github.io"
 markdown: kramdown
 permalink: pretty
 
-# theme: jekyll-theme-minimal
-theme: just-the-docs
+theme: jekyll-theme-minimal
+#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-seo-tag
